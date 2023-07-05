@@ -73,3 +73,10 @@ ul li .overlay-img a{
 ul li:hover .overlay-img{
     opacity: 1;
 }
+footer{
+    margin-top: 360px;
+    padding: 10px;
+    text-align: center;
+    background-color: #5f26cd;
+    color: white;
+}
